@@ -1,0 +1,2 @@
+# SMKPMG_TDSC
+Exercício 
